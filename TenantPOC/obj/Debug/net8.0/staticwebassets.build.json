@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K6uFJUBcF2FLXXAk0Oo3kmKmptcUCWq2bVP/utBqzYU=",
+  "Source": "TenantPOC",
+  "BasePath": "_content/TenantPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tenant\\TenantPOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|d:\\tenant\\tenantpoc\\tenantpoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|solutionrelative:tenantpoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|d:\\tenant\\tenantpoc\\tenantpoc\\services\\tenantservice\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|solutionrelative:tenantpoc\\services\\tenantservice\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|d:\\tenant\\tenantpoc\\tenantpoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|solutionrelative:tenantpoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|d:\\tenant\\tenantpoc\\tenantpoc\\helpers\\multipledatabaseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|solutionrelative:tenantpoc\\helpers\\multipledatabaseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|d:\\tenant\\tenantpoc\\tenantpoc\\models\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|solutionrelative:tenantpoc\\models\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|d:\\tenant\\tenantpoc\\tenantpoc\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|solutionrelative:tenantpoc\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|d:\\tenant\\tenantpoc\\tenantpoc\\migrations\\tenantdb\\20240701132202_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|solutionrelative:tenantpoc\\migrations\\tenantdb\\20240701132202_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|d:\\tenant\\tenantpoc\\tenantpoc\\models\\tenantdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|solutionrelative:tenantpoc\\models\\tenantdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|d:\\tenant\\tenantpoc\\tenantpoc\\migrations\\coreapp\\20240701132558_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|solutionrelative:tenantpoc\\migrations\\coreapp\\20240701132558_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|d:\\tenant\\tenantpoc\\tenantpoc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|solutionrelative:tenantpoc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|d:\\tenant\\tenantpoc\\tenantpoc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15229CFB-FA20-4FE9-BD9C-6873CDEA5DBF}|TenantPOC\\TenantPOC.csproj|solutionrelative:tenantpoc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 51,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TenantService.cs",
+              "DocumentMoniker": "D:\\Tenant\\TenantPOC\\TenantPOC\\Services\\TenantService\\TenantService.cs",
+              "RelativeDocumentMoniker": "TenantPOC\\Services\\TenantService\\TenantService.cs",
+              "ToolTip": "D:\\Tenant\\TenantPOC\\TenantPOC\\Services\\TenantService\\TenantService.cs",
+              "RelativeToolTip": "TenantPOC\\Services\\TenantService\\TenantService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAASwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:39:19.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultipleDatabaseExtensions.cs",
+              "DocumentMoniker": "D:\\Tenant\\TenantPOC\\TenantPOC\\Helpers\\MultipleDatabaseExtensions.cs",
+              "RelativeDocumentMoniker": "TenantPOC\\Helpers\\MultipleDatabaseExtensions.cs",
+              "ToolTip": "D:\\Tenant\\TenantPOC\\TenantPOC\\Helpers\\MultipleDatabaseExtensions.cs",
+              "RelativeToolTip": "TenantPOC\\Helpers\\MultipleDatabaseExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:36:45.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "D:\\Tenant\\TenantPOC\\TenantPOC\\Models\\Tenant.cs",
+              "RelativeDocumentMoniker": "TenantPOC\\Models\\Tenant.cs",
+              "ToolTip": "D:\\Tenant\\TenantPOC\\TenantPOC\\Models\\Tenant.cs",
+              "RelativeToolTip": "TenantPOC\\Models\\Tenant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:34:55.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240701132202_init.cs",
+              "DocumentMoniker": "D:\\Tenant\\TenantPOC\\TenantPOC\\Migrations\\TenantDB\\20240701132202_init.cs",
+              "RelativeDocumentMoniker": "TenantPOC\\Migrations\\TenantDB\\20240701132202_init.cs",
+              "ToolTip": "D:\\Tenant\\TenantPOC\\TenantPOC\\Migrations\\TenantDB\\20240701132202_init.cs",
+              "RelativeToolTip": "TenantPOC\\Migrations\\TenantDB\\20240701132202_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:33:17.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240701132558_init.cs",
+              "DocumentMoniker": "D:\\Tenant\\TenantPOC\\TenantPOC\\Migrations\\CoreApp\\20240701132558_init.cs",
+              "RelativeDocumentMoniker": "TenantPOC\\Migrations\\CoreApp\\20240701132558_init.cs",
+              "ToolTip": "D:\\Tenant\\TenantPOC\\TenantPOC\\Migrations\\CoreApp\\20240701132558_init.cs",
+              "RelativeToolTip": "TenantPOC\\Migrations\\CoreApp\\20240701132558_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:32:51.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TenantController.cs",
+              "DocumentMoniker": "D:\\Tenant\\TenantPOC\\TenantPOC\\Controllers\\TenantController.cs",
+              "RelativeDocumentMoniker": "TenantPOC\\Controllers\\TenantController.cs",
+              "ToolTip": "D:\\Tenant\\TenantPOC\\TenantPOC\\Controllers\\TenantController.cs",
+              "RelativeToolTip": "TenantPOC\\Controllers\\TenantController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:22:55.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TenantDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Tenant\\TenantPOC\\TenantPOC\\Models\\TenantDbContextFactory.cs",
+              "RelativeDocumentMoniker": "TenantPOC\\Models\\TenantDbContextFactory.cs",
+              "ToolTip": "D:\\Tenant\\TenantPOC\\TenantPOC\\Models\\TenantDbContextFactory.cs",
+              "RelativeToolTip": "TenantPOC\\Models\\TenantDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:27:51.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Tenant\\TenantPOC\\TenantPOC\\appsettings.json",
+              "RelativeDocumentMoniker": "TenantPOC\\appsettings.json",
+              "ToolTip": "D:\\Tenant\\TenantPOC\\TenantPOC\\appsettings.json",
+              "RelativeToolTip": "TenantPOC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T15:24:29.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tenant\\TenantPOC\\TenantPOC\\Program.cs",
+              "RelativeDocumentMoniker": "TenantPOC\\Program.cs",
+              "ToolTip": "D:\\Tenant\\TenantPOC\\TenantPOC\\Program.cs",
+              "RelativeToolTip": "TenantPOC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:25:38.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Tenant\\TenantPOC\\TenantPOC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TenantPOC\\Models\\Product.cs",
+              "ToolTip": "D:\\Tenant\\TenantPOC\\TenantPOC\\Models\\Product.cs",
+              "RelativeToolTip": "TenantPOC\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:29:01.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Tenant\\TenantPOC\\TenantPOC\\Models\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "TenantPOC\\Models\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Tenant\\TenantPOC\\TenantPOC\\Models\\ApplicationDBContext.cs",
+              "RelativeToolTip": "TenantPOC\\Models\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:27:53.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

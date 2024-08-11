@@ -1,0 +1,6 @@
+@TenantPOC_HostAddress = http://localhost:5087
+
+GET {{TenantPOC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
